@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ningWeric, I am a Student, I hope to learn more AI.
+- 👀 I’m interested in Rust, Python, Typescript, Go, Java, Shell, Cpp.
+- 🌱 I’m currently learning Rsut, Python, Go.
+- 💞️ I’m looking to collaborate on something
+- 📫 How to reach me Anything
+- 😄 Pronouns: Student, Worker
+- ⚡ Fun fact: AI, Go, Rust
